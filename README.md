@@ -2,4 +2,4 @@
 I will publish here all Exterminium Mod releases once they are done
 
 # Version Changelog:
-V 0.100.1 - First Release
+V 0.100.1 - First Release(Planned to come in March)
