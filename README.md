@@ -1,4 +1,4 @@
-# This is the official GitHub page for Exterminium Mod for Terraria(More info down below)
+# This is the official GitHub page for Exterminium Mod for Terraria(More info. down below)
 
 # Version Changelog:
 V 0.100.1 - First Release(Planned to be done in March)
