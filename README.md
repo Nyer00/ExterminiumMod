@@ -4,7 +4,7 @@
 V 0.100.1 - First Release(Planned to be released on March 5, maybe earlier)
 
 # What is Extermnium?
-It's a content mod(Planned to be really huge) that at the moment adds a few items, some new bosses, new enemies and a lot of other things(Lazy description I know, it will get better within time, trust me)
+It's a content mod(Planned to be really huge) that at the moment adds a few items, some new bosses, new enemies and a lot of other things(Lazy description I know, I will update within time, trust me)
 
 # Who is working on it?
 Yo, me! And... only me
