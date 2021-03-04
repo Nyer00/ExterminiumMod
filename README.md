@@ -1,7 +1,7 @@
 # Official Github page of Exterminium Mod for Terraria
 
 # Version Changelog:
-V 0.100.1 - First Release(Planned to be released on March 5, maybe earlier)
+V 0.100.1 - First Release(Delayed, supposed to be March 5, now it's unknow)
 
 # What is Extermnium?
 It's a content mod(Planned to be really huge) that at the moment adds a few items, some new bosses, new enemies and a lot of other things(Lazy description I know, I will update it within time, trust me)
