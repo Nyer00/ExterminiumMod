@@ -3,7 +3,7 @@
 # Version Changelog:
 V 0.10.1 - First Release(Delayed, supposed to be March 5, now it's unknow)
 
-# What is Extermnium?
+# What is Exterminium?
 It's a content mod(Planned to be really huge) that at the moment adds a few items, some new bosses, new enemies and a lot of other things(Lazy description I know, I will update it within time, trust me)
 
 # Who is working on it?
