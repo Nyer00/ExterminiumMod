@@ -1,3 +1,3 @@
-# Official Github page of Extinction Tales Mod for Terraria
+# Official Github repository of Extinction Tales Mod for Terraria
 
 
