@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\..\references\tModLoader.targets" />
+  <PropertyGroup>
+    <AssemblyName>ExtinctionTalesMod</AssemblyName>
+    <TargetFramework>net45</TargetFramework>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+  </PropertyGroup>
+  <Target Name="BuildMod" AfterTargets="Build">
+	  <Exec Command="&quot;$(tMLBuildServerPath)&quot; -build $(ProjectDir) -eac $(TargetPath) -define &quot;$(DefineConstants)&quot; -unsafe $(AllowUnsafeBlocks)" />
+  </Target>
+  <ItemGroup>
+    <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Buffs\Summon\" />
+    <Folder Include="Effects" />
+    <Folder Include="Items\Consumables\Potions\" />
+    <Folder Include="Items\Equipment\Equipables\LightPets\" />
+    <Folder Include="Items\Equipment\Equipables\Minecarts\" />
+    <Folder Include="Items\Equipment\Equipables\Mounts\" />
+    <Folder Include="Events\" />
+    <Folder Include="Items\ExModeItems\BossDrops\Weapons\" />
+    <Folder Include="Items\Tools\Drills" />
+    <Folder Include="Items\Weapons\Thrown\" />
+    <Folder Include="Items\Weapons\Spears\" />
+    <Folder Include="Items\Weapons\Summon" />
+    <Folder Include="Misc\" />
+    <Folder Include="NPCs\Bosses\TheAncientGods\FungiEmpress" />
+    <Folder Include="NPCs\Bosses\TheElementals" />
+    <Folder Include="NPCs\TownNPCs\" />
+    <Folder Include="Projectiles\Summon\" />
+    <Folder Include="Projectiles\Thrown\" />
+    <Folder Include="Projectiles\Spears\" />
+    <Folder Include="Sounds\DeathSounds\" />
+    <Folder Include="Sounds\Music\" />
+    <Folder Include="Textures\BossChecklist" />
+  </ItemGroup>
+  <ItemGroup>
+	  <Compile Remove="Items\Classes\Assassin\AssassinItem" />
+	  <Compile Remove="Items\Weapons\Assassin\Assassinitem.cs" />
+	  <Compile Remove="NPCs\Misc\VanillaNPCDropsModItems.cs" />
+	  <Compile Remove="NPCs\Misc\VanillaNPCSellingModItems.cs" />
+	  <Compile Remove="Utilities\ItemUtils.cs" />
+	  <Compile Remove="Items\ExterminatorsItem.cs" />
+	  <Compile Remove="Utilities\ExterminiumExtensionMethods.cs" />
+	  <Compile Remove="RecipeHelper.cs" />
+	  <Compile Remove="Tiles\OnyxTrueGemTile.cs" />
+	  <Compile Remove="ExterminiumMenu.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Tiles\OnyxTrueGemTile.png" />
+  </ItemGroup>
+</Project>

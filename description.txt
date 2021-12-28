@@ -1,0 +1,37 @@
+Extinction Tales is a Mod that aims to add new content to Terraria
+
+Currently this Mod adds:
+. 100+ Items including Weapons, Accessories and Armor Sets 
+. New enemies
+. New ores
+. 3 Bosses -
+> 2 Pre-Hardmode Bosses
+> 1 Hardmode Boss
+. 2 new classes: Assassin
+. New difficulty: Exterminator Mode(W.I.P)
+
+Changelog:
+- This will be moved to a wiki as soon as possible - 
+
+V 0.20.0:
+.General code clean up
+.A lot of bug fixes
+.Brute Class removed
+
+V 0.12.0:
+.New Boss: Rune Warrior
+.Items replaced: Ornament Crystal -> Misleading Heart
+.Balanced items, recipes, basically everything
+.A ton of resprites
+.New Items
+.New Weapons
+.New Armor Sets
+.New Enemies
+.New Buffs/Debuffs
+.New Materials
+.New Ores: Brilliance, Charged Granite, Ancient Marble
+.Reworked the World Generation(We highly recommend you to create a new world to play the Mod)
+.Now every accessory dropped by a boss was moved to Exterminator Mode
+
+If you find any bugs, join the Discord server and feel free to feedback us!
+We are looking for people to help us develop the Mod, for more info. click on the Mod homepage.

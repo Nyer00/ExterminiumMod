@@ -1,0 +1,7 @@
+displayName = Extinction Tales
+author = The Extinction Tales Team
+version = 0.20.0
+homepage = https://discord.gg/5bkyYQdu5h
+hideCode = true
+hideResources = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
