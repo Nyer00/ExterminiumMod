@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FB4c4nfqSdJKW9daonDvismtEMkP41E0xpz3WnBPNvMry1dhafZWzlPCLD5y5j6YXwzowMi9OsvSi/PZgkdjgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sage Quintin\\Documents\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\ExtinctionTales\\ExtinctionTales.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sage Quintin\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
